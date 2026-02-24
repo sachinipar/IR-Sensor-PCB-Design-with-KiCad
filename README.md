@@ -1,1 +1,0 @@
-# IR-Sensor-PCB-Design-with-KiCad
